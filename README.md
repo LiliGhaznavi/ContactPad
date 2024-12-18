@@ -12,17 +12,17 @@
 
 ## 🚀 Usage
 
-### Clone the repository:
+**Clone the repository:**
 ```bash
 git clone https://github.com/LiliGhaznavi/contactpad.git
 ```
 
-### Install dependencies:
+**Install dependencies:**
 ```bash
 npm install readline-sync
 ```
 
-### Run the app:
+**Run the app:**
 ```bash
 node app.js
 ```
