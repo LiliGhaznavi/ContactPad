@@ -1,7 +1,7 @@
-# ContactPad
+# 📇 ContactPad
  ContactPad is a simple command-line contact manager in JavaScript that allows users to add, remove, search, list, and manage contacts with ease.
 
- ## Features
+ ## ✨ Features
 
 - Add a new contact
 - Remove a contact by searching by first name, last name or number
@@ -10,7 +10,7 @@
 - Check for duplicate contacts
 - Display the total number of contacts
 
-## Usage
+## 🚀 Usage
 
 ### Clone the repository:
 ```bash
@@ -26,6 +26,3 @@ npm install readline-sync
 ```bash
 node app.js
 ```
-
-## License
-This project is licensed under the Apache License 2.0.
